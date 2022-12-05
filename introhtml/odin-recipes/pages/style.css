@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(255, 144, 80);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
