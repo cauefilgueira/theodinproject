@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+
+.container {
+   background-color: blue;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 400px;
+   height: 400px;
+}
+
+.box {
+    background-color: wheat;
+    border-width: 2px;
+    border-color: aqua;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+}
+

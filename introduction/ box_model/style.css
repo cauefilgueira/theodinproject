@@ -1,0 +1,26 @@
+#div_one {
+    color: aqua;
+    background-color: blanchedalmond;
+    padding: 15px;
+    border-style: solid;
+}
+
+#div_two {
+    color: aquamarine;
+    background-color: blue;
+    border-color: blueviolet;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 22px;
+}
+
+#div_three {
+    color: antiquewhite;
+    background-color: crimson;
+    padding: 18px;
+    border-style: solid;
+    border-color: blueviolet;
+    margin-left: 222px;
+    margin-top: 48px;
+    
+}

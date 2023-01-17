@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: grey;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+
+.backbutton {
+height: 22px;
+width: 20px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}

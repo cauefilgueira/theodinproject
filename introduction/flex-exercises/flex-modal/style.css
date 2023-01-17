@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    background: #aaa;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal {
+    background-color: whitesmoke;
+    box-shadow: 2px 4px 16px;
+    width: 460px;
+    border-radius: 10px;
+    display: flex;
+    gap: 16px;
+    padding: 16px;
+}
+
+.icon {
+    font-size: 26px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+    background: lavender;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.close-button {
+    font-size: 16px;
+    font-weight: 400;
+    color: #888;
+    background: #eee;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    border-radius: 16px;
+    padding: 8px 16px;
+}
+
+button.continue {
+    color: white;
+    background-color: royalblue;
+    border: 1px solid royalblue;
+}
+
+button.cancel {
+    color: royalblue;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.text {
+    margin-bottom: 8px;
+}
